@@ -16,7 +16,7 @@
     "core-js": "^2.6.5",
     "express": "^4.17.1",
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "node-sass": "^4.13.0",
     "oidc-client": "^1.9.1",
